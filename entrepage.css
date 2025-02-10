@@ -1,0 +1,13 @@
+body {
+    color: white;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    transition: background-color 1s linear; /* 平滑过渡背景颜色 */
+}
+
